@@ -147,6 +147,7 @@ body {
 }
 
 .lista__link a {
+  font-size: 14px;
   margin-left: 1em;
   text-decoration: none;
   color: var(--branco-principal);
